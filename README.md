@@ -28,3 +28,4 @@ Others on Github (None Really):
 
 * Distributed Caching - http://www.cacheonix.com/presentations/best_practices_for_scaling_java_applications_with_distributed_caching.pdf
 * Database Design - http://www.javacodegeeks.com/2012/02/20-database-design-best-practices.html
+* REST and JSON - http://www.java-tv.com/2013/07/16/best-practices-rest-json-api-design-for-java-developers/
